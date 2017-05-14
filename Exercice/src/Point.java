@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
+/**SS
  *
  * @author AOUGASSA VIGNO
  */
@@ -38,6 +38,7 @@ float abscisse;
     }
     //methodes
     public float  Distance(Point X, Point Y){
+        //mon nom c'est AOUGASSA VIGNO 15A080FS L2AR
                return Math.sqrt(X*X+Y*Y);
         
     }
